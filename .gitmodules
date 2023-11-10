@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/JeromeJoh/good-tingz-backend.git
+	url = https://github.com/JeromeJoh/good-tingz-backend
 [submodule "admin-frontend"]
 	path = admin-frontend
-	url = https://github.com/JeromeJoh/good-tingz-admin-frontend.git
+	url = https://github.com/JeromeJoh/good-tingz-admin-frontend
 [submodule "user-frontend"]
 	path = user-frontend
-	url = https://github.com/JeromeJoh/good-tingz-user-frontend.git
+	url = https://github.com/JeromeJoh/good-tingz-user-frontend
